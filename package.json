@@ -1,6 +1,6 @@
 {
   "name": "closest-bower",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Find the closest bower.json file meeting specific criteria",
   "main": "index.js",
   "license": "MIT",
