@@ -1,28 +1,36 @@
 {
-  "name": "closest-package",
-  "version": "1.0.0",
-  "description": "Find the closest package.json file meeting specific criteria",
+  "name": "closest-bower",
+  "version": "0.0.1",
+  "description": "Find the closest bower.json file meeting specific criteria",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "node test | tap-spec"
   },
-  "author": {
-    "name": "Hugh Kennedy",
-    "email": "hughskennedy@gmail.com",
-    "url": "http://hughsk.io/"
-  },
+  "authors": [
+    {
+      "name": "Hugh Kennedy",
+      "email": "hughskennedy@gmail.com",
+      "url": "http://hughsk.io/"
+    },
+    {
+      "name": "Sergey Panfilov",
+      "email": "se-panfilov@ya.ru",
+      "url": "https://github.com/Light241"
+    }
+  ],
   "dependencies": {},
   "devDependencies": {
-    "deep-equal": "^0.2.1",
-    "tap-spec": "^0.2.0",
-    "tape": "^2.14.0"
+    "deep-equal": "^1.0.0",
+    "tap-spec": "^3.0.0",
+    "tape": "^4.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/hughsk/closest-package.git"
   },
   "keywords": [
+    "bower",
     "package",
     "json",
     "parse",
@@ -30,8 +38,8 @@
     "up",
     "closest"
   ],
-  "homepage": "https://github.com/hughsk/closest-package",
+  "homepage": "https://github.com/Light241/closest-bower",
   "bugs": {
-    "url": "https://github.com/hughsk/closest-package/issues"
+    "url": "https://github.com/Light241/closest-bower/issues"
   }
 }
