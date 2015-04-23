@@ -2,8 +2,8 @@
 
 [![dependency Status](https://david-dm.org/Light241/closest-bower/status.svg?branch=master)](https://david-dm.org/Light241/closest-bower#info=Dependencies)
 [![devDependency Status](https://david-dm.org/Light241/closest-bower/dev-status.svg?branch=master)](https://david-dm.org/Light241/closest-bower#info=devDependencies)
-[![Bower version](https://badge.fury.io/bo/closest-bower.svg)](http://badge.fury.io/bo/closest-bower)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/Light241/closest-bower/blob/master/LICENSE)
+[![Npm version](https://badge.fury.io/bo/closest-bower.svg)](http://badge.fury.io/bo/closest-bower)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/Light241/closest-bower/blob/master/LICENSE.md)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Light241/closest-bower/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Find the closest bower.json file meeting specific criteria by searching
