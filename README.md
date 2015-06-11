@@ -52,7 +52,3 @@ MIT. See [LICENSE.md](http://github.com/hughsk/closest-bower/blob/master/LICENSE
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Light241/closest-bower/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Light241/closest-bower/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
