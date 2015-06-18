@@ -1,6 +1,6 @@
 {
   "name": "closest-bower",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Find the closest bower.json file meeting specific criteria",
   "main": "index.js",
   "license": "MIT",
@@ -16,7 +16,7 @@
     {
       "name": "Sergey Panfilov",
       "email": "se-panfilov@ya.ru",
-      "url": "https://github.com/Light241"
+      "url": "https://se-panfilov.github.io"
     }
   ],
   "dependencies": {},
@@ -38,8 +38,8 @@
     "up",
     "closest"
   ],
-  "homepage": "https://github.com/Light241/closest-bower",
+  "homepage": "https://github.com/se-panfilov/closest-bower",
   "bugs": {
-    "url": "https://github.com/Light241/closest-bower/issues"
+    "url": "https://github.com/se-panfilov/closest-bower/issues"
   }
 }

@@ -1,9 +1,9 @@
 # closest-bower
 
-[![dependency Status](https://david-dm.org/Light241/closest-bower/status.svg?branch=master)](https://david-dm.org/Light241/closest-bower#info=Dependencies)
-[![devDependency Status](https://david-dm.org/Light241/closest-bower/dev-status.svg?branch=master)](https://david-dm.org/Light241/closest-bower#info=devDependencies)
+[![dependency Status](https://david-dm.org/se-panfilov/closest-bower/status.svg?branch=master)](https://david-dm.org/se-panfilov/closest-bower#info=Dependencies)
+[![devDependency Status](https://david-dm.org/se-panfilov/closest-bower/dev-status.svg?branch=master)](https://david-dm.org/se-panfilov/closest-bower#info=devDependencies)
 [![npm version](https://badge.fury.io/js/closest-bower.svg)](http://badge.fury.io/js/closest-bower)
-[![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/Light241/closest-bower/blob/master/LICENSE.md)
+[![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/se-panfilov/closest-bower/blob/master/LICENSE.md)
 
 Find the closest bower.json file meeting specific criteria by searching
 upwards from a given directory until hitting root.
@@ -50,5 +50,5 @@ MIT. See [LICENSE.md](http://github.com/hughsk/closest-bower/blob/master/LICENSE
 
 [1]: https://github.com/hughsk/closest-package
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Light241/closest-bower/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/se-panfilov/closest-bower/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
